@@ -6,6 +6,4 @@ let b =20;
 
  let z=sum(a,b);
  console.log(z,"z")
- console.log(z,"z")
- console.log(z,"z")
- console.log(z,"x")
+ 
